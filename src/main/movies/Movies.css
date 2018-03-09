@@ -1,0 +1,12 @@
+.movies {
+	display: flex;
+	flex-wrap: wrap;
+	background: smokewhite;
+}
+
+.movie {
+	width: 240px;
+	height: 100px;
+	margin: 5px;
+	background: tomato;
+}
